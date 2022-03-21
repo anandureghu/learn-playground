@@ -1,0 +1,6 @@
+title: Go (Golang) Mastery - From zero to Hero
+plan:
+  - title: Welcome
+    statement: markdowns/01-welcome.md
+  - title: Basics Of Go
+    statement: markdowns/02-basics-of-go.md
